@@ -11,6 +11,10 @@ Iphone 7<br>
 Steelseries Apex M750 TKL Mechanical Keyboard<br>
 Apple Lightning<br>
 </p>
+
+<p align="left" dir="auto"> 
+My Website : <a href="https://linktr.ee/adinyahya">🤤</a>
+</p>
   
 Programming languages and tools :
 
@@ -23,4 +27,12 @@ Programming languages and tools :
   <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> </p>
+  
+ Mutimedia skill and tools :
+ 
+ <p align="left" dir="auto"> 
+  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+  </p>
+  
+  
 
