@@ -9,6 +9,8 @@ Intel Core i5 4.1Ghz, 8GB RAM, 1TB Storage, GTX 1050<br>
 Samsung Monitor Series 24 inch 75hz S24R350 IPS FHD HDMI LED<br>
 Iphone 7<br>
 Steelseries Apex M750 TKL Mechanical Keyboard<br>
+Steelseries Rivel 3 Mouse<br>
+Steelseries Arctis 5 Gaming Headset<br>
 Apple Lightning<br>
 </p>
 
