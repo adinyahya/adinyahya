@@ -15,7 +15,7 @@ Apple Lightning<br>
 </p>
 
 <p align="left" dir="auto"> 
-My Website : <a href="https://linktr.ee/adinyahya">🤤</a>
+My Website : Click this Emot Icon <a href="https://linktr.ee/adinyahya">🤤</a>
 </p>
   
 Programming languages and tools :
