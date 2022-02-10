@@ -29,7 +29,7 @@ Programming languages and tools :
   <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
-<a href="https://wordpress.org/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111777.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
+<a href="https://wordpress.org/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
 </p>
   
  Mutimedia skill and tools :
