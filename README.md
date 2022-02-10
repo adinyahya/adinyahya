@@ -3,14 +3,15 @@ Hello, I'm Adin Yahya, a vegetable eater 🌮
 
 Productivity is directly associated with selecting the right software and hardware. Here is a list of all the gear I use on a day to day basis :
 
-<p align="left" dir="auto"> <a href="https://getbootstrap.com" rel="nofollow">
+<p align="left" dir="auto">
 Apple Mac Pro (13-Inch, 6GB RAM, 128GB Storage, 2.5GHz Intel HD Graphics)<br>
 Intel Core i5 4.1Ghz, 8GB RAM, 1TB Storage, GTX 1050<br>
 Samsung Monitor Series 24 inch 75hz S24R350 IPS FHD HDMI LED<br>
 Iphone 7<br>
 Steelseries Apex M750 TKL Mechanical Keyboard<br>
 Apple Lightning<br>
- </p>
+</p>
+<br>
   
 Programming languages and tools :
 
