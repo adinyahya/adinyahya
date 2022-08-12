@@ -28,7 +28,7 @@ Programming languages and tools :
  <p align="left" dir="auto"> 
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/adobe_premiere_pro_premiere_pro_multimedia_software_aplication_icon_191049.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+ <a href="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
   
   
