@@ -34,6 +34,13 @@ Programming languages and tools :
   </p>
   
   
+  Other skill :
+  
+   <p align="left" dir="auto"> 
+  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-4341269_120580.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/560/PNG/512/API_icon-icons.com_53706.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+  </p>
+  
   <div align="center">
   <br>
   <br>
