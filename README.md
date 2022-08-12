@@ -23,6 +23,10 @@ Programming languages and tools :
   </a> 
    <a href="https://en.wikipedia.org/wiki/API" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" alt="postgresql" width="40" height="40" style="max-width: 100%;">
   </a> 
+   <a href="https://www.nginx.com/" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="postgresql" width="40" height="40" style="max-width: 100%;">
+  </a> 
+  <a href="https://www.apache.org/" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/apache_original_wordmark_logo_icon_146643.png" alt="postgresql" width="40" height="40" style="max-width: 100%;">
+  </a> 
 </p>
   
  Mutimedia skill and tools :
