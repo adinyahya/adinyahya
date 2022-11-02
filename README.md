@@ -1,7 +1,7 @@
 # Hello I'm Riceknow 👋 a vegetable eater 🌮
 
 [![Website Badge](https://img.shields.io/badge/-adinyahya.com🤤-9F73AB?style=flat&logo=Google-Chrome&logoColor=black&link=https://linktr.ee/adinyahya)](https://linktr.ee/adinyahya)
-[![Instagram Badge](https://img.shields.io/badge/-@adin_yahya-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adin_yahya/)](https://instagram.com/adin_yahya)
+[![Instagram Badge](https://img.shields.io/badge/-@adin_yahya-FFA1CF?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adin_yahya/)](https://instagram.com/adin_yahya)
 [![Tiktok Badge](https://img.shields.io/badge/-@riceknow-251B37?style=flat&logo=tiktok&logoColor=white&link=https://tiktok.com/riceknow/)](https://tiktok.com/adin_yahya)
   
 <h2>Programming languages and Some Tools I Use 🚀</h2>
