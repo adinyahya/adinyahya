@@ -1,5 +1,8 @@
-# riceknow
-Hello, I'm Adin Yahya, a vegetable eater 🌮
+# Hello I'm Riceknow 👋 a vegetable eater 🌮
+
+[![Website Badge](https://img.shields.io/badge/-adinyahya.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://adinyahya.com)](https://adinyahya.com)
+[![Instagram Badge](https://img.shields.io/badge/-@adin_yahya-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adin_yahya/)](https://instagram.com/adin_yahya)
+[![Tiktok Badge](https://img.shields.io/badge/-@riceknow-black?style=flat&logo=tiktok&logoColor=white&link=https://tiktok.com/riceknow/)](https://tiktok.com/adin_yahya)
 
 <p align="left" dir="auto"> 
 My Website : Click this Emot Icon <a href="https://linktr.ee/adinyahya">🤤</a>
