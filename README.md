@@ -8,7 +8,7 @@
 My Website : Click this Emot Icon <a href="https://linktr.ee/adinyahya">🤤</a>
 </p>
   
-Programming languages and tools :
+<h2>Programming languages and Some Tools I Use 🚀</h2>
 
 <p align="left" dir="auto"> 
   <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
@@ -32,7 +32,7 @@ Programming languages and tools :
   </a> 
 </p>
   
- Mutimedia skill and tools :
+ <h2>Mutimedia skill and tools 🧐 </h2>
  
  <p align="left" dir="auto"> 
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
