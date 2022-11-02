@@ -3,10 +3,6 @@
 [![Website Badge](https://img.shields.io/badge/-adinyahya.com🤤-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/adinyahya)](https://linktr.ee/adinyahya)
 [![Instagram Badge](https://img.shields.io/badge/-@adin_yahya-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adin_yahya/)](https://instagram.com/adin_yahya)
 [![Tiktok Badge](https://img.shields.io/badge/-@riceknow-2A454B?style=flat&logo=tiktok&logoColor=white&link=https://tiktok.com/riceknow/)](https://tiktok.com/adin_yahya)
-
-<p align="left" dir="auto"> 
-My Website : Click this Emot Icon <a href="https://linktr.ee/adinyahya"></a>
-</p>
   
 <h2>Programming languages and Some Tools I Use 🚀</h2>
 
