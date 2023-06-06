@@ -13,6 +13,8 @@
   <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://nodered.org" rel="nofollow"> <img src="https://i.ibb.co/jRg5hVj/node-red-icon.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
+  <a href="https://nextjs.org" rel="nofollow"> <img src="https://i.ibb.co/Wc8GrR7/nextjs.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
+   <a href="https://chakra-ui.com" rel="nofollow"> <img src="https://i.ibb.co/YRxQYRX/54212428.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://wordpress.org/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
