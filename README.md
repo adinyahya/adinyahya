@@ -26,15 +26,15 @@
   </a> 
    <a href="https://www.nginx.com/" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nginx_original_logo_icon_146413.png" alt="postgresql" width="40" height="40" style="max-width: 100%;">
   </a> 
-  <a href="https://www.apache.org/" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/apache_original_logo_icon_146644.png" alt="postgresql" width="40" height="40" style="max-width: 100%;">
+  <a href="https://www.apache.org/" rel="nofollow"> <img src="https://i.ibb.co/x3NxFjb/Apache-HTTP-server-logo-2019-present-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;">
   </a> 
 </p>
   
  <h2>Mutimedia skill and tools 🧐 </h2>
  
  <p align="left" dir="auto"> 
-  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/adobe_premiere_pro_premiere_pro_multimedia_software_aplication_icon_191049.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://i.ibb.co/d4QL7MX/Adobe-Photoshop-CC-icon-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://i.ibb.co/R6XXBFt/Adobe-Premiere-Pro-CC-icon-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.canva.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
   
