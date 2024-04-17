@@ -12,7 +12,7 @@
   <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://nodered.org" rel="nofollow"> <img src="https://i.ibb.co/jRg5hVj/node-red-icon.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://nextjs.org" rel="nofollow"> <img src="https://i.ibb.co/Wc8GrR7/nextjs.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
-   <a href="https://reactjs.org" rel="nofollow"> <img src="https://hello.adinyahya.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2FVQgqjkJ%2F1-Yafu7ihc1-LFu-P4azer-Aa4w.png&w=48&q=75" alt="reactjs" width="40" height="40" style="max-width: 100%;"> </a> 
+   <a href="https://reactjs.org" rel="nofollow"> <img src="https://hackernoon.com/hn-images/1*To2H39eauxaeYxYMtV1afQ.png" alt="reactjs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.typescriptlang.org" rel="nofollow"> <img src="https://hello.adinyahya.com/_next/image?url=%2Ftypescript.png&w=48&q=75" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://chakra-ui.com" rel="nofollow"> <img src="https://i.ibb.co/YRxQYRX/54212428.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
@@ -24,14 +24,6 @@
  <p align="left" dir="auto"> 
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://i.ibb.co/d4QL7MX/Adobe-Photoshop-CC-icon-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://i.ibb.co/R6XXBFt/Adobe-Premiere-Pro-CC-icon-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
-  </p>
-  
-  
-  Other skill :
-  
-   <p align="left" dir="auto"> 
-  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/1881/PNG/512/iconfinder-social-media-4341269_120580.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://www.adobe.com" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/560/PNG/512/API_icon-icons.com_53706.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
   
   <div align="center">
