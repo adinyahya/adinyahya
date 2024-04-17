@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@adin_yahya-FFA1CF?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/adin_yahya/)](https://instagram.com/adin_yahya)
 [![Tiktok Badge](https://img.shields.io/badge/-@riceknow-251B37?style=flat&logo=tiktok&logoColor=white&link=https://tiktok.com/@riceknow/)](https://tiktok.com/@riceknow)
   
-<h2>Programming languages and Some Tools I Use 🚀</h2>
+<h2>Interested in Web Development</h2>
 
 <p align="left" dir="auto"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> 
@@ -19,7 +19,7 @@
 
 </p>
   
- <h2>Mutimedia skill and tools 🧐 </h2>
+ <h2>Mutimedia skill and tools</h2>
  
  <p align="left" dir="auto"> 
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://i.ibb.co/d4QL7MX/Adobe-Photoshop-CC-icon-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
