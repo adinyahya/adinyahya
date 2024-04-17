@@ -22,14 +22,7 @@
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://i.ibb.co/d4QL7MX/Adobe-Photoshop-CC-icon-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://www.adobe.com" rel="nofollow"> <img src="https://i.ibb.co/R6XXBFt/Adobe-Premiere-Pro-CC-icon-svg.png" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
   </p>
-  
-  <div align="center">
-  <br>
-  <br>
-  <a href="https://github.com/adinyahya/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
-  <p>One moment please...</p>
-  <br>
-  <br>
+
 </a>
   
 
