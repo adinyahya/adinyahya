@@ -3,7 +3,6 @@
 <p align="left" dir="auto"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://laravel.com/" rel="nofollow"> <img src="https://hello.adinyahya.com/_next/image?url=%2Flaravel.png&w=48&q=75" alt="laravel" width="40" height="40" style="max-width: 100%;"> </a> 
-  <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://nodered.org" rel="nofollow"> <img src="https://i.ibb.co/jRg5hVj/node-red-icon.png" alt="node red" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://nextjs.org" rel="nofollow"> <img src="https://hello.adinyahya.com/_next/image?url=%2Fnextjs.webp&w=48&q=75" alt="next js" width="40" height="40" style="max-width: 100%;"> </a> 
    <a href="https://reactjs.org" rel="nofollow"> <img src="https://hackernoon.com/hn-images/1*To2H39eauxaeYxYMtV1afQ.png" alt="reactjs" width="40" height="40" style="max-width: 100%;"> </a> 
