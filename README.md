@@ -10,6 +10,7 @@
   <a href="https://tailwindcss.com" rel="nofollow"> <img src="https://hello.adinyahya.com/_next/image?url=%2Ftailwind.png&w=48&q=75" alt="tailwind css" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://chakra-ui.com" rel="nofollow"> <img src="https://i.ibb.co/YRxQYRX/54212428.png" alt="chakra ui" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
+  <a href="https://hello.adinyahya.com" rel="nofollow"> <img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="learning" width="40" height="40" style="max-width: 100%;"> </a> 
 
 </p>
 
