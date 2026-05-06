@@ -1,21 +1,23 @@
 <h2>🚀 Interested in Web Development</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://hello.adinyahya.com/_next/image?url=%2Flaravel.png&w=48&q=75" alt="Laravel" width="40" height="40"/>
+
+  <img src="https://i.ibb.co/jRg5hVj/node-red-icon.png" alt="Node-RED" width="40" height="40"/>
+
+  <img src="https://hello.adinyahya.com/_next/image?url=%2Fnextjs.webp&w=48&q=75" alt="Next.js" width="40" height="40"/>
+
+  <img src="https://hackernoon.com/hn-images/1*To2H39eauxaeYxYMtV1afQ.png" alt="React.js" width="40" height="40"/>
+
+  <img src="https://hello.adinyahya.com/_next/image?url=%2Ftypescript.png&w=48&q=75" alt="TypeScript" width="40" height="40"/>
+
+  <img src="https://hello.adinyahya.com/_next/image?url=%2Ftailwind.png&w=48&q=75" alt="Tailwind CSS" width="40" height="40"/>
+
+  <img src="https://i.ibb.co/YRxQYRX/54212428.png" alt="Chakra UI" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+
 </p>
